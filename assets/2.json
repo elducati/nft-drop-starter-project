@@ -1,0 +1,18 @@
+{
+    "name": "Fire Sword",
+    "symbol": "FS",
+    "description": "Collection of 4 Naruto Concepts on the blockchain. This is the number 3/4.",
+    "seller_fee_basis_points": 500,
+    "image": "2.png",
+    "attributes": [
+        {"trait_type": "Layer-1", "value": "0"},
+        {"trait_type": "Layer-2", "value": "0"}, 
+        {"trait_type": "Layer-3", "value": "1"},
+        {"trait_type": "Layer-4", "value": "1"}
+    ],
+    "properties": {
+        "creators": [{"address": "2jeMRq635qfoPyCk7kjCwyoxrtUjQDb1cand5NGpen1j", "share": 100}],
+        "files": [{"uri": "2.png", "type": "image/png"}]
+    },
+    "collection": {"name": "numbers", "family": "numbers"}
+}
